@@ -1,3 +1,5 @@
 # practice_git
-practice
+practice 
+
+this is my first repo
 author : rushikesh damugade
